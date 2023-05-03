@@ -1,0 +1,68 @@
+nav{
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+}
+#logo{
+    padding:80px 100px;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.navbar ul li{
+    display: inline-block;
+    padding:80px 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.header{
+    margin: 0;
+}
+#enjoy{
+    padding-left: 80px;
+    font-size: 50px;
+}
+#image1{
+    padding:50px 100px;    
+    max-width: 100%;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 75px;
+}
+.col1{
+    text-align: center;
+    padding: 50px;
+}
+#about-text{
+    font-size: 20px;
+}
+.footer{
+    background-color: sienna;
+    height: 300px;
+}
+.footer h2{
+    padding-top: 50px;
+    text-align: center;
+    padding-right: 80px;
+}
+.footer ul{
+    display: flex;
+    justify-content: center;
+}
+.footer ul li{
+    display: block;
+    text-decoration: none;
+    padding: 50px 100px;
+}
+.footer ul li i{
+    padding-left: 50px;
+}
+
